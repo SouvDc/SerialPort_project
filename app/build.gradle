@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 10
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "android_serialport_api.sample"
+        minSdkVersion 3
+        targetSdkVersion 3
+
+        ndk {
+            moduleName "serial_port"
+
+        }
+
+        sourceSets.main {
+            jni.srcDirs = []
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\个人资料\\串口通讯demo\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sending01010101.xml",
+        "source": "D:\\个人资料\\串口通讯demo\\project\\app\\src\\main\\res\\layout\\sending01010101.xml"
+    },
+    {
+        "merged": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loopback.xml",
+        "source": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\src\\main\\res\\layout\\loopback.xml"
+    },
+    {
+        "merged": "D:\\个人资料\\串口通讯demo\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\console.xml",
+        "source": "D:\\个人资料\\串口通讯demo\\project\\app\\src\\main\\res\\layout\\console.xml"
+    },
+    {
+        "merged": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\console.xml",
+        "source": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\src\\main\\res\\layout\\console.xml"
+    },
+    {
+        "merged": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\serialport_test.xml",
+        "source": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\src\\main\\res\\layout\\serialport_test.xml"
+    },
+    {
+        "merged": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sending01010101.xml",
+        "source": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\src\\main\\res\\layout\\sending01010101.xml"
+    },
+    {
+        "merged": "D:\\个人资料\\串口通讯demo\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\serialport_test.xml",
+        "source": "D:\\个人资料\\串口通讯demo\\project\\app\\src\\main\\res\\layout\\serialport_test.xml"
+    },
+    {
+        "merged": "D:\\个人资料\\串口通讯demo\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\个人资料\\串口通讯demo\\project\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\个人资料\\串口通讯demo\\project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loopback.xml",
+        "source": "D:\\个人资料\\串口通讯demo\\project\\app\\src\\main\\res\\layout\\loopback.xml"
+    }
+]

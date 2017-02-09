@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:keepScreenOn="true"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/serial_port_test_get_content_et"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="top"
+        android:hint="Reception"
+        android:scrollbarStyle="insideOverlay"
+        android:isScrollContainer="true">
+    </EditText>
+
+    <EditText
+        android:id="@+id/serial_port_test_input_content_et"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Emission"
+        android:lines="1" >
+    </EditText>
+
+    <Button
+        android:id="@+id/serial_port_test_input_content_send_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Send">
+    </Button>
+
+    <Button
+        android:id="@+id/serial_port_test_input_content_clean_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="clean">
+    </Button>
+</LinearLayout>

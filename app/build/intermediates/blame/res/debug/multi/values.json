@@ -1,0 +1,298 @@
+[
+    {
+        "outputFile": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 33,
+                    "endColumn": 19,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\src\\main\\res\\values\\baudrates.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 34,
+                        "endColumn": 19,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endLine": 65,
+                    "endColumn": 19,
+                    "endOffset": 1791
+                },
+                "from": {
+                    "file": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\src\\main\\res\\values\\baudrates.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endLine": 66,
+                        "endColumn": 19,
+                        "endOffset": 1792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endLine": 86,
+                    "endColumn": 10,
+                    "endOffset": 2615
+                },
+                "from": {
+                    "file": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endLine": 24,
+                        "endColumn": 10,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 2620,
+                    "endColumn": 59,
+                    "endOffset": 2675
+                },
+                "from": {
+                    "file": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 59,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 2680,
+                    "endColumn": 88,
+                    "endOffset": 2764
+                },
+                "from": {
+                    "file": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 88,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 2769,
+                    "endLine": 90,
+                    "endColumn": 16,
+                    "endOffset": 2867
+                },
+                "from": {
+                    "file": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endLine": 27,
+                        "endColumn": 16,
+                        "endOffset": 1127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 2872,
+                    "endLine": 92,
+                    "endColumn": 18,
+                    "endOffset": 2968
+                },
+                "from": {
+                    "file": "D:\\公司资料\\demo\\串口通讯备份\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1132,
+                        "endLine": 29,
+                        "endColumn": 18,
+                        "endOffset": 1228
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\个人资料\\串口通讯demo\\project\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 33,
+                    "endColumn": 19,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "D:\\个人资料\\串口通讯demo\\project\\app\\src\\main\\res\\values\\baudrates.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 34,
+                        "endColumn": 19,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endLine": 65,
+                    "endColumn": 19,
+                    "endOffset": 1791
+                },
+                "from": {
+                    "file": "D:\\个人资料\\串口通讯demo\\project\\app\\src\\main\\res\\values\\baudrates.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endLine": 66,
+                        "endColumn": 19,
+                        "endOffset": 1792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endLine": 86,
+                    "endColumn": 10,
+                    "endOffset": 2615
+                },
+                "from": {
+                    "file": "D:\\个人资料\\串口通讯demo\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endLine": 24,
+                        "endColumn": 10,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 2620,
+                    "endColumn": 59,
+                    "endOffset": 2675
+                },
+                "from": {
+                    "file": "D:\\个人资料\\串口通讯demo\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 59,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 2680,
+                    "endColumn": 88,
+                    "endOffset": 2764
+                },
+                "from": {
+                    "file": "D:\\个人资料\\串口通讯demo\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 88,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 2769,
+                    "endLine": 90,
+                    "endColumn": 16,
+                    "endOffset": 2867
+                },
+                "from": {
+                    "file": "D:\\个人资料\\串口通讯demo\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endLine": 27,
+                        "endColumn": 16,
+                        "endOffset": 1127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 2872,
+                    "endLine": 92,
+                    "endColumn": 18,
+                    "endOffset": 2968
+                },
+                "from": {
+                    "file": "D:\\个人资料\\串口通讯demo\\project\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1132,
+                        "endLine": 29,
+                        "endColumn": 18,
+                        "endOffset": 1228
+                    }
+                }
+            }
+        ]
+    }
+]
